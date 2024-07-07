@@ -90,6 +90,10 @@ The business case for Walmart's Customer Spending Analysis evaluates the spendin
 - **Univariate and Bivariate Analysis**: Each segment's spending behavior provides insights that can be generalized to the population, highlighting the importance of personalized marketing.
 - **Generalization for Population**: The findings can be used to generalize spending patterns for the broader customer base, informing business strategies.
 
+## Sway Presentation
+
+For a visual and interactive presentation of the findings and recommendations, please visit the [Sway presentation](https://sway.cloud.microsoft/WoVFvDxtfpO5NGHV?ref=Link).
+
 ## Contact Information
 
 - **Name**: Ranjan Mondal
